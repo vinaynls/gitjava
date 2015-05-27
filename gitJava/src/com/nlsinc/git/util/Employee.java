@@ -15,6 +15,7 @@ public class Employee {
 	{
 		System.out.println(this.empId + " " + this.ename);
 		System.out.println("Employee details printed");
+		System.out.println("----------------------------------");
 	}
 	
 	
