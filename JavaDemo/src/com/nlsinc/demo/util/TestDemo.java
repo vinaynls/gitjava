@@ -8,6 +8,8 @@ public class TestDemo {
 		Employee e = new Employee(1,"Vinay");
 		
 		System.out.println("Employee name is :" +e.ename);
+		
+		System.out.println("Test line 1");
 
 	}
 
