@@ -15,6 +15,7 @@ public class GitDemo {
 	public static void printInfo()
 	{
 		System.out.println("This is from method print info");
+		System.out.println("This is my first change");
 	}
 
 }
